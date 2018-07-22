@@ -1,0 +1,16 @@
+<section class='job-search-box'>
+    <h2 class='text-center'>Start you job search here</h2>
+    <form class='job-search'>
+        <div class="form-group">
+            <label for="jobTitle">Find</label>
+            <input type="text" placeholder="Job Title" id='jobTitle' name="jobTitle" [(ngModel)]='jobTitle'>
+        </div>
+        <div class="form-group">
+            <label for='jobLocation'>Near</label>
+            <input type="text" placeholder="City or Location" id='jobLocation' name="jobLocation" [(ngModel)]='jobLocation'>
+        </div>
+        <div class='form-group'>
+            <button class="btn btn-primary from-control" (click)='jobSearch()'>Search</button>
+        </div>
+    </form>
+</section>

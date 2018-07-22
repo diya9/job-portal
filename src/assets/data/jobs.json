@@ -1,0 +1,56 @@
+[{
+        "id": 1,
+        "title": "Software Engineer",
+        "skills": "Javascript,HTML,CSS",
+        "companyName": "Infosys",
+        "type": "Engineering",
+        "location": "Pune",
+        "description": "",
+        "experience": "0-2",
+        "salary": ""
+    },
+    {
+        "id": 2,
+        "title": "Data Analyst",
+        "skills": "Python",
+        "companyName": "Accenture",
+        "type": "Engineering",
+        "location": "Mumbai",
+        "description": "",
+        "experience": "2-4",
+        "salary": ""
+    },
+    {
+        "id": 101,
+        "title": "BPO",
+        "skills": "Good Communication",
+        "companyName": "Reliance Jio",
+        "type": "Voice Processing",
+        "location": "Mumbai",
+        "description": "",
+        "experience": "Fresher",
+        "salary": ""
+    },
+    {
+        "id": 102,
+        "title": "Daycare Teacher",
+        "skills": "Mathematics craft education",
+        "companyName": "Talent Corner Hr Services Pvt Ltd Hiring For talentcorner",
+        "type": "Teaching/Training",
+        "location": "Pune",
+        "description": "Teaching children through structured play. Developing a childs curiosity and knowledge. Developing a well-managed, child oriented learning curriculum. Tidying up the classroom at the end of a lesson. Motivating and stimulating children's learning abilities. Building relationships with parents. Ensuring the health, safety and wellbeing of the children. Updating the classroom bulletin boards with childrens artwork.",
+        "experience": "0-2",
+        "salary": ""
+    },
+    {
+        "id": 103,
+        "title": "Female Western & Indian Dance Teacher",
+        "skills": "dancing dance communication",
+        "companyName": "9T9 Technology Solutions",
+        "type": "Teaching/Training",
+        "location": "Pune",
+        "description": "We are looking for Female Indian & Western Dance Teacher for one of the International IB School in Hyderabad and Pune.Qualification: Any graduation (Certification in Dance)",
+        "experience": "0-4",
+        "salary": ""
+    }
+]

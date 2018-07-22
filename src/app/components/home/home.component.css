@@ -1,0 +1,20 @@
+.job-search-box {
+    height: auto;
+    padding: 136px 0 48px 0;
+    text-align: center;
+    width: 100%;
+}
+
+h2 {
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: 200;
+}
+
+.job-search {
+    display: flex;
+    justify-content: center;
+    max-width: 810px;
+    margin: 0 auto;
+    padding: 32px 8px;
+}

@@ -1,0 +1,15 @@
+.search {
+    display: flex;
+    justify-content: center;
+    max-width: 810px;
+    margin: 0 auto;
+    padding: 32px 8px;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.card-footer {
+    display: flex;
+}
